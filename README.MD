@@ -10,8 +10,10 @@ Ultralytics의 **YOLO** 및 **OpenCV**를 사용하여 만든 프로젝트입니
 ## Output Examples:
 
 <!-- <video src="./output_samples/sample_output1.mov" controls> </video> -->
-<video src="./output_samples/sample_output1.mov" controls></video>
+<!-- <video src="./output_samples/sample_output1.mov" controls></video> -->
+[![Video Label](https://img.youtube.com/vi/ly3hR3rU3KY/0.jpg)](https://youtu.be/ly3hR3rU3KY)
 
+[![Video Label](https://img.youtube.com/vi/Gsxn5fVR4pU/0.jpg)](https://youtu.be/Gsxn5fVR4pU)
 
 <br>
 
