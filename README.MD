@@ -9,11 +9,13 @@ Ultralytics의 **YOLO** 및 **OpenCV**를 사용하여 만든 프로젝트입니
 
 ## Output Examples:
 
-<video src="./output_samples/sample_output1.mov" controls> </video>
+<!-- <video src="./output_samples/sample_output1.mov" controls> </video> -->
+<video src="./output_samples/sample_output1.mov" controls></video>
+
 
 <br>
 
-YouTube Output Video Link :
+Output Video Link (YouTube) :
 1.  https://youtu.be/ly3hR3rU3KY
 2.  https://youtu.be/Gsxn5fVR4pU
 
