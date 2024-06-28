@@ -2,6 +2,5 @@ test.ipynb
 models/license_plate_detector.pt
 video_detection_results/detection_video_output.mp4
 video_detection_results/df_vehicle_detected.csv
-output_samples/sample_output1.mov
 output_samples/sample_output2.mov
 video_data/test_video2.mp4
